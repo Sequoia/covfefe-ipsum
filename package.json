@@ -1,0 +1,16 @@
+{
+  "name": "covfefe-ipsum",
+  "version": "1.0.0",
+  "description": "Generates passages of lorem ipsum text suitable for use covfefe",
+  "main": "index.js",
+  "scripts": {
+    "test" : "echo 'covfefe'; exit 0;"
+  },
+  "keywords": ["covfefe", "lorem-ipsum", "MAGA"],
+  "author": "Sequoia McDowell <sequoia.mcdowell@gmail.com> (https://sequoia.makes.software/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "covfefe": "^1.2.1",
+    "lorem-ipsum": "^1.0.4"
+  }
+}
