@@ -2,6 +2,8 @@
 
 # Covfefe-ipsum
 
+Despite the availability of all those other placeholder text generators covfefe
+
 ## Install
 
 `npm i -S covfefe-ipsum`
